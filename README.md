@@ -1,5 +1,5 @@
 # Overview
-The Music Application is a desktop music player developed with Python, drawing inspiration from popular streaming platforms like Spotify. This project, executed between March 2020 and May 2020, showcases innovative features, data integration with Google Firebase, and proficiency in both full-stack development and user interface design.
+The Music Application is a desktop music player developed with Python, drawing inspiration from popular streaming platforms like Spotify. This project has innovative features, data integration with Google Firebase and user-friendly interfaces created with PyQt5.
 
 # Features
 1. Desktop Music Player: Developed a feature-rich desktop application providing a seamless music playback experience.
